@@ -11,6 +11,8 @@ This allows it to be fully *distributed* -- anyone can `git clone` the wiki and 
 
 Markdown is used as it is a simple human-readable/writable format that looks close enough to plain text to be legible without a Markdown renderer.
 
+If you wish to contribute, you may do so either via a git client, or usually via the Web interface of whatever site this is hosted on (initially GitHub -- click the edit icon on a page).
+
 ### Copyright
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
