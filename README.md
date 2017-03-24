@@ -2,7 +2,7 @@
 
 ### About
 
-[Lego Rock Raiders](https://en.wikipedia.org/wiki/Lego_Rock_Raiders_\(video_game\)) is a Lego-themed RTS game for Microsoft Windows, published 15 November 1999.
+[Lego(R) Rock Raiders](https://en.wikipedia.org/wiki/Lego_Rock_Raiders_\(video_game\)) is a Lego(R)-themed Real Time Strategy game for PCs (and the PlayStation 1, which is not covered here), released on November 15, 1999.
 
 This is an attempt to document and compile resources for the technical aspects of Lego(R) Rock Raiders -- i.e. how the game engine works internally, and what file formats it uses.
 
