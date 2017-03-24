@@ -13,9 +13,9 @@ Markdown is used as it is a simple human-readable/writable format that looks clo
 
 ### Copyright
 
-All original content on this wiki is implicitly agreed to be licensed under the terms of the Creative Commons BY-NC-SA license. If you contribute original content here, it is implied that your content be made available under the terms of the license.
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+All original content on this wiki is implicitly agreed to be licensed under the terms of the Creative Commons BY-NC-SA license. If you contribute original content here, it is implied that your content be made available under the terms of the license.
 
 ### Contents
 
