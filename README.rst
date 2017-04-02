@@ -41,6 +41,7 @@ made available under the terms of the license.
 Contents
 ~~~~~~~~
 
+-  `Engine <docs/Engine.rst>`_
 -  `Textures <docs/Textures.rst>`_
 -  `Models <docs/Models.rst>`_
 -  `NERPS Scripting <docs/Scripting.rst>`_
