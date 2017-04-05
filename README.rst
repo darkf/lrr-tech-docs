@@ -45,7 +45,7 @@ Contents
 -  `Textures <docs/Textures.rst>`_
 -  `Models <docs/Models.rst>`_
 -  `NERPS Scripting <docs/Scripting.rst>`_
--  `Objects <docs/Objects.md>`_
+-  `Objects <docs/Objects.rst>`_
 
 .. _Git: https://en.wikipedia.org/wiki/Git
 .. _reStructuredText: https://en.wikipedia.org/wiki/ReStructuredText
